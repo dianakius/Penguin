@@ -22,5 +22,6 @@ body {
 .left-mountain {
   height: 300px;
   width: 300px;
-  background:linear-gradient(rgb(203, 241, 228), rgb(80, 183, 255));
+  background: linear-gradient(rgb(203, 241, 228), rgb(80, 183, 255));
+  position: absolute;
 }
